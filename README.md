@@ -44,7 +44,7 @@ A modern, standalone GUI application designed to simplify the process of finding
 
 3.  **Run the Script:**
     ```bash
-    Switch-Downloader.py
+    py Switch-Downloader.py
     ```
     *(Replace `Switch-Downloader.py` with the actual name of what you name the script.)*
 
